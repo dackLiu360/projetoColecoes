@@ -1,0 +1,20 @@
+create table userLib(
+id_userlib bigint not null primary key generated always as identity (start with 1, increment by 1),
+username varchar (20),
+password varchar (32)
+);
+
+create table userLibInfo (
+id_userlibinfo bigint not null primary key generated always as identity (start with 1, increment by 1),
+firstname varchar (50),
+lastname varchar (50),
+email varchar (100),
+birthday date,
+picture blob
+);
+
+
+ALTER TABLE userLibInfo
+ADD FOREIGN KEY(id_userlibinfo)
+REFERENCES userLib(id_userlib)
+ON DELETE CASCADE;
