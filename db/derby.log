@@ -1,0 +1,31 @@
+Fri Sep 23 09:30:59 BRT 2016 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Fri Sep 23 09:31:00 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0157-5707-0247-ffff8e6efa5b
+no diretório de banco de dados C:\Temp\ProjetoColecoes\db\projetocolecoes 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Temp\glassfish-4.1\glassfish4\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\ProjetoColecoes\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Sep 23 09:31:14 BRT 2016:
+Encerrando a instância a816c00e-0157-5707-0247-ffff8e6efa5b
+Fri Sep 23 09:31:15 BRT 2016 Thread[DRDAConnThread_2,5,main] (DATABASE = projetocolecoes), (DRDAID = {2}), Banco de dados 'projetocolecoes' fechado.
+----------------------------------------------------------------
+Fri Sep 23 09:31:19 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 560740aa-0157-5707-0247-ffff8e6efa5b
+no diretório de banco de dados C:\Temp\ProjetoColecoes\db\projetocolecoes 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Temp\glassfish-4.1\glassfish4\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\ProjetoColecoes\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
